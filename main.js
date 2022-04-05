@@ -5,3 +5,7 @@ console.log('druheOvocie');
 
 let dataUrl = document.querySelector('body').dataset.dataUrl;
 console.log('dataUrl');
+
+//   button[class='test']*4 
+//button class="test"></button><button class="test"></button><button class="test"></button><button class="test"></button>
+
